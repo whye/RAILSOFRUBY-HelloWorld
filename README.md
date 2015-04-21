@@ -1,0 +1,2 @@
+# RAILSOFRUBY-HelloWorld
+self study
